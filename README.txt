@@ -10,8 +10,8 @@ Simulation: Includes a Pygame script to visually simulate the physics of a coin 
 
 1. Group7 Heads & Tail Via Coin Classification
 
-![Chart Description](Visual_Canvass_Chart.png)
-![Chart Description](Visual_Canvass_Chart.png)
+![Chart Description](Group7_10A_Race_Graph.png)
+![Chart Description](Group7_5A_Race_Graph.png)
 
 2. Group7 Heads & Tails Combined
 
@@ -27,4 +27,5 @@ Simulation: Includes a Pygame script to visually simulate the physics of a coin 
 The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
 Table: 64% Heads bias.
 Tiles: 45% bias (favoring Tails).
+
 
