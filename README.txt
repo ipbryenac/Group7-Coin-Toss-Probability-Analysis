@@ -9,13 +9,13 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 😊Simulation: Includes a Pygame script to visually simulate the physics of a coin toss (`toss.py`).
 
 1. Group7 Heads & Tail Via Coin Classification
-https://github.com/user-attachments/assets/02a23b93-9bc7-4a89-9926-6e54bb55bc37
+https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_5A_Race_Graph.png
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/549f63ea-f8fe-4846-8920-bfa487116a62" />![Alt text](Group7_10A_Race_Graph.png)
+https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_10A_Race_Graph.png
 
 2. Group7 Heads & Tails Combined
 
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/03ddf501-07ad-406a-9dd9-5a8271d79b29" />
+https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/ba0cbab38f30bac23e0b6cd6d0a83ee4793a3139/Group7_Combined_Graph.png
 
 3. All Group Heads & Tails Via Coin Classification
 
