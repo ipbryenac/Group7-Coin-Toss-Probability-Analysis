@@ -9,7 +9,7 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 😊Simulation: Includes a Pygame script to visually simulate the physics of a coin toss (`toss.py`).
 
 1. Group7 Heads & Tail Via Coin Classification
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/02a23b93-9bc7-4a89-9926-6e54bb55bc37" />
+https://github.com/user-attachments/assets/02a23b93-9bc7-4a89-9926-6e54bb55bc37
 
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/549f63ea-f8fe-4846-8920-bfa487116a62" />![Alt text](Group7_10A_Race_Graph.png)
 
@@ -29,6 +29,7 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
 Table: 64% Heads bias.
 Tiles: 45% bias (favoring Tails).
+
 
 
 
